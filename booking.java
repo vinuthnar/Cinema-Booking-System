@@ -909,8 +909,8 @@ public class booking extends JFrame implements ActionListener
 }
 class Seat
 {
-	private final int boxheight = 30; //Height of the drawn text box
-	private final int boxwidth = 50; //Width of the drawn text box
+	private final int boxheight = 30; 
+	private final int boxwidth = 50; 
 	private int seatnumber;
 	private int seattaken;
 	private int x;
